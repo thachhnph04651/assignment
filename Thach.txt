@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 thachhn
-=======
-thachhndsadsa
->>>>>>> 554e40c7a3e5664dffb23c53afecf4a43e8f8717
